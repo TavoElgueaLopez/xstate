@@ -40,15 +40,15 @@
     "@xstate/store": "workspace:^"
   },
   "peerDependencies": {
-    "@angular/core": "^19.0.0"
+    "@angular/core": "^20.3.28"
   },
   "devDependencies": {
     "@analogjs/vite-plugin-angular": "^1.21.2",
     "@angular/build": "^19.0.0",
-    "@angular/common": "^19.0.0",
-    "@angular/compiler": "^19.0.0",
+    "@angular/common": "^20.3.28",
+    "@angular/compiler": "^20.3.27",
     "@angular/compiler-cli": "^19.0.0",
-    "@angular/core": "^19.0.0",
+    "@angular/core": "^20.3.28",
     "@angular/platform-browser": "^19.0.0",
     "@angular/platform-browser-dynamic": "^19.0.0",
     "jsdom": "^26.0.0",
